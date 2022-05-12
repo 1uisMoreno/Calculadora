@@ -1,4 +1,4 @@
-# cambios
+# Calculadora
 Primer repositorio
 
 Autor: Luis Moreno
